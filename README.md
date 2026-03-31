@@ -1,7 +1,7 @@
 # ICML-2026-Submission-14659
 
 <p align="center">
-  <img src="sdxl_pixart_eta_abalation_study.png" alt="Alt text"><br>
+  <img src="sdxl_pixart_eta_abalation_part_1.png" alt="Alt text"><br>
   <em>This is the figure caption</em>
 </p
 
