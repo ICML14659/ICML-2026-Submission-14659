@@ -1,6 +1,6 @@
 # ICML-2026-Submission-14659
 
-<figure>
-  <img src="blip_gpt_imagenet.png" alt="Alt text">
-  <figcaption>This is the figure caption</figcaption>
-</figure>
+<p align="center">
+  <img src="blip_gpt_imagenet.png" alt="Alt text"><br>
+  <em>This is the figure caption</em>
+</p>
